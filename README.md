@@ -1,11 +1,13 @@
 # Hi there, I'm Xinge Zhao 👋
-<img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
+<img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/PpVjpSOjZDn9lfPE2L/giphy.gif" />
 
 
 <!--
 **Z-singer/Z-singer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
+https://media.giphy.com/media/PpVjpSOjZDn9lfPE2L/giphy.gif
 -->
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
