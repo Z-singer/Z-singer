@@ -1,15 +1,18 @@
 # Hi there, I'm Xinge Zhao 👋
 <img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
 
+
 <!--
 **Z-singer/Z-singer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 -->
+
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 ### Contact with me 📝
-![](https://img.shields.io/badge/QQ-2584579028-green.svg) ![](https://img.shields.io/badge/WeChat-15524420703-green.svg) [![Blog Badge](https://img.shields.io/badge/zhihu-冯宇-brightgreen)](https://www.zhihu.com/people/feng-shi-ji-tuan-re-huo) [![Mail Badge](https://img.shields.io/badge/-2584579028@qq.com-c14438?style=flat-square)]
+![Static Badge](https://img.shields.io/badge/QQ%2C2584579028%2Cgreen)
+ ![](https://img.shields.io/badge/WeChat-15524420703-green.svg) [![Blog Badge](https://img.shields.io/badge/zhihu-冯宇-brightgreen)](https://www.zhihu.com/people/feng-shi-ji-tuan-re-huo) [![Mail Badge](https://img.shields.io/badge/-2584579028@qq.com-c14438?style=flat-square)]
 <br />
 I am a postgraduate from Northeast University, Shenyang, China. Now I am studying in Visual Place Recognition and working on Visual Localization. I am also interested in Semantic Segmentation. 
 
