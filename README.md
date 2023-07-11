@@ -18,13 +18,13 @@ https://media.giphy.com/media/PpVjpSOjZDn9lfPE2L/giphy.gif
 I am a postgraduate from Northeast University, Shenyang, China. Now I am studying in Visual Place Recognition and working on Visual Localization. I am also interested in Semantic Segmentation. 
 
 ---
-## I'm a Pattern Recognition Student
+### I'm a Pattern Recognition Student
 - 🔭 I’m currently working on deep learning based visual place recognition, visual localization, semantic/panoptic segmentation etc.
 - 🌱 I’m currently learning AI.
 - 💪🏼 Motto: The only way to do great work is to love what you do.
 - ⚡ Fun fact: Swimming & Badminton
 
-
+---
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
