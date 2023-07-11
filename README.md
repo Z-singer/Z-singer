@@ -19,7 +19,7 @@ I am a postgraduate from Northeast University, Shenyang, China. Now I am studyin
 
 ---
 ### I'm a Pattern Recognition Student
-- 🔭 I’m currently working on deep learning based visual place recognition & visual localization etc.
+- 🔭 I’m currently working on deep learning based visual place recognition & visual localization, etc.
 - 🌱 I’m currently learning AI.
 - 💪🏼 Motto: The only way to do great work is to love what you do.
 - ⚡ Fun fact: Swimming & Badminton
