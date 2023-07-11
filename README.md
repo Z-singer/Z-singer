@@ -15,7 +15,7 @@ https://media.giphy.com/media/PpVjpSOjZDn9lfPE2L/giphy.gif
 ### Contact with me 📝
 ![Static Badge](https://img.shields.io/badge/QQ-2584579028-green) ![Static Badge](https://img.shields.io/badge/WeChat-15524420703-blue) ![Static Badge](https://img.shields.io/badge/Email-2584579028%40qq.com-purple)
 <br />
-I am a postgraduate from Northeast University, Shenyang, China. Now I am studying in Visual Place Recognition and working on Visual Localization. I am also interested in Semantic Segmentation. 
+I am a postgraduate from Northeast University, Shenyang, China. Now I am studying in Deep Learning and Computor Vision. My research interests are image retrieval, visual place recognition and visual localization. 
 
 ---
 ### I'm a Pattern Recognition Student
