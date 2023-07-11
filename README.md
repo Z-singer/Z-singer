@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
-![Static Badge](https://img.shields.io/badge/QQ-2584579028-green) ![Static Badge](https://img.shields.io/badge/WeChat-15524420703-blue) ![Static Badge]![Static Badge](https://img.shields.io/badge/Email-2584579028%40qq.com-purple)
+![Static Badge](https://img.shields.io/badge/QQ-2584579028-green) ![Static Badge](https://img.shields.io/badge/WeChat-15524420703-blue) ![Static Badge](https://img.shields.io/badge/Email-2584579028%40qq.com-purple)
 <br />
 I am a postgraduate from Northeast University, Shenyang, China. Now I am studying in Visual Place Recognition and working on Visual Localization. I am also interested in Semantic Segmentation. 
 
